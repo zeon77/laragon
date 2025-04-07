@@ -29,16 +29,13 @@ Enjoy!
   - Wanna show your local project to customers? Just 1 click.  
   - Wanna enable/disable a PHP extension? Just 1 click.
 
-
-
-*Laragon is trully isolated & portable. However, you may need to use the installer as it will detect and install missing run-time components that are required to run C++ applications built using Visual Studio such as `PHP, Apache` for you.*
-
+*Laragon is truly isolated & portable. However, you may need to use the installer as it will detect and install missing run-time components that are required to run C++ applications built using Visual Studio such as `PHP, Apache` for you.*
 
 ## How fast?
 Laragon starts instantly. You can set Laragon autorun when Windows starts. When running, Laragon uses just a little amount of your RAM.
 Here is the GUI of Laragon:
 
-![Imgur](https://i.imgur.com/rqmczhX.png)
+![](.img/image_2025-04-07_09-36-53.png)
 
 ## How easy?
 - Laragon is very easy to install & upgrade. Just download the latest version and click `Next, Next, Next...`
