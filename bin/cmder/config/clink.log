@@ -1,0 +1,36 @@
+5a04 app_context::start_logger  483 ---- 2025/04/07 01:15:21.433 -------------------------------------------------
+5a04 app_context::start_logger  486 Host process is 'cmd.exe' (pid 23044)
+5a04 app_context::start_logger  490 DLL path is 'D:\Laragon\bin\cmder\vendor\clink'
+5a04 app_context::start_logger  493 DLL base is 00007FFF22730000
+5a04 app_context::start_logger  508 Windows version 10.0.26100 (x64)
+5a04 app_context::start_logger  510 Clink version 1.7.14.843933 (x64)
+5a04 hook_setter::hook_setter  176 >>> Started hook transaction.
+5a04 hook_setter::attach_iat   351 Hooking SetEnvironmentVariableW in IAT for module 00007FF769A30000 in 'api-ms-win-core-processenvironment-l1-1-0.dll' at 00007FF769A6AE30 (value was 00007FFF8E39AFA0).
+5a04 hook_setter::attach_iat   351 Hooking SetEnvironmentStringsW in IAT for module 00007FF769A30000 in 'api-ms-win-core-processenvironment-l1-1-0.dll' at 00007FF769A6AE28 (value was 00007FFF8E3AC640).
+5a04 hook_setter::attach_iat   351 Hooking WriteConsoleW in IAT for module 00007FF769A30000 in 'api-ms-win-core-console-l1-1-0.dll' at 00007FF769A6AA90 (value was 00007FFF8E395340).
+5a04 hook_setter::attach_iat   351 Hooking GetEnvironmentVariableW in IAT for module 00007FF769A30000 in 'api-ms-win-core-processenvironment-l1-1-0.dll' at 00007FF769A6AE48 (value was 00007FFF8E375DC0).
+5a04 hook_setter::commit       227 <<< Hook transaction committed.
+5a04 initialise_clink          239 Inject completed at 2025/04/07 01:15:21.433
+5a04 hook_setter::hook_setter  176 >>> Started hook transaction.
+5a04 hook_setter::detach_iat   411 Unhooking GetEnvironmentVariableW in IAT for module 00007FF769A30000 in 'api-ms-win-core-processenvironment-l1-1-0.dll' at 00007FFF227579E0.
+5a04 hook_setter::commit       227 <<< Hook transaction committed.
+5a04 hook_setter::hook_setter  176 >>> Started hook transaction.
+5a04 hook_setter::attach_iat   351 Hooking ReadConsoleW in IAT for module 00007FF769A30000 in 'api-ms-win-core-console-l1-1-0.dll' at 00007FF769A6AA70 (value was 00007FFF8E3AFB50).
+5a04 hook_setter::attach_iat   351 Hooking SetConsoleTitleW in IAT for module 00007FF769A30000 in 'api-ms-win-core-console-l2-2-0.dll' at 00007FF769A6AAF0 (value was 00007FFF8E385000).
+5a04 hook_setter::commit       227 <<< Hook transaction committed.
+5a04 win_screen_buffer::begin  397 Using native terminal support (auto mode found 'ConEmuHk64.dll').
+5a04 reset_handle              144 resetting mismatched stdin handle
+5a04 reset_handle              144 resetting mismatched stdout handle
+5a04 reset_handle              144 resetting mismatched stderr handle
+5a04 reset_handle              144 resetting mismatched stdout handle
+5a04 reset_handle              144 resetting mismatched stderr handle
+5a04 host_lua::load_scripts    199 Loaded 2 Lua scripts in 78 ms
+5a04 @~clink~/app/update.lua   423 Clink updater: too soon to check for updates (1743951752 vs 1743981322).
+5a04 history_db::initialise   1328 master bank ctag: |CTAG_1743951693_2204947875_19364_0
+5a04 history_db::compact      1606 History:  28 active, 14 deleted
+5a04 reset_handle              144 resetting mismatched stdout handle
+5a04 reset_handle              144 resetting mismatched stderr handle
+5a04 history_db::compact      1606 History:  28 active, 14 deleted
+5a04 reset_handle              144 resetting mismatched stdout handle
+5a04 reset_handle              144 resetting mismatched stderr handle
+5a04 history_db::compact      1606 History:  28 active, 14 deleted

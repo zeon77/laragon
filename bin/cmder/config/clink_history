@@ -1,0 +1,43 @@
+|CTAG_1743951693_2204947875_19364_0
+|link update
+clink update
+|omposer
+|hp -v
+|omposer
+|hp -v
+|omposer
+composer self-update
+php -v
+composer
+|ronical
+cd ..
+cd bin\
+cd cronical\
+cronical
+|o -v
+cd ..\bin\go
+|o -v
+cd bi
+cd bin
+ls
+cd go1.24.2\bin\
+go -v
+go version
+ngrok --help
+|grok -v
+redis-server
+..\bin\redis\
+redis-server --version
+|ath
+path
+composer -v
+ngrok -v
+node -v
+npm -v
+|it -v
+git -v
+python -v
+|ython --version
+|ython --version
+python --version
+python
